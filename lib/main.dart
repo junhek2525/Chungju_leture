@@ -3,6 +3,12 @@ import 'package:chunju_lecture/todo_local_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
+  widgetsflutterBinding.ena
+  await Supabase.intialize(
+      url:  "https://iguxbgcqrmxvfoxxkzxg.supabase.co",
+
+  )
+
   runApp(const MyApp());
 }
 
